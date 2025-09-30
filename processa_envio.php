@@ -2,8 +2,8 @@
 
 	require "./bibliotecas/PHPMailer-6.10.0/DSNConfigurator.php";
     require "./bibliotecas/PHPMailer-6.10.0/Exception.php";
-	require "./bibliotecas/PHPMailer-6.10.0/OAuth.php";
-    require "./bibliotecas/PHPMailer-6.10.0/OAuthTokenProvider.php";
+	//require "./bibliotecas/PHPMailer-6.10.0/OAuth.php";
+    //require "./bibliotecas/PHPMailer-6.10.0/OAuthTokenProvider.php";
 	require "./bibliotecas/PHPMailer-6.10.0/PHPMailer.php";
 	require "./bibliotecas/PHPMailer-6.10.0/POP3.php";
 	require "./bibliotecas/PHPMailer-6.10.0/SMTP.php";
